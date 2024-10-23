@@ -35,7 +35,7 @@ A powerful network simulation tool that visualizes maximum packet flow through r
 
 2. Install Python dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
 ## 🎮 Running the Application
